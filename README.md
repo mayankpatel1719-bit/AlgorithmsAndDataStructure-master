@@ -164,14 +164,8 @@ Show your appreciation to those who have contributed to the project.
 
 For open-source projects, Under [MIT License](/LICENSE).
 
-## Maintainers
+## Maintainer
 
-- [CodePerfectPlus](https://github.com/codePerfectPlus)
-- [ExpressHermes](https://github.com/ExpressHermes)
-- [Ayush Modi](https://github.com/hot9cups)
-- [rex_divakar](https://github.com/rexdivakar)
-- [Shubham Pawar](https://github.com/shubham5351)
-- [Shantanu Kale](https://github.com/SSKale1)
 - [Mayank Patel](https://github.com/mayankpatel1719-bit)
 
 
