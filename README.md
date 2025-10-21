@@ -174,6 +174,4 @@ For open-source projects, Under [MIT License](/LICENSE).
 - [Shantanu Kale](https://github.com/SSKale1)
 - [Mayank Patel](https://github.com/mayankpatel1719-bit)
 
-<p align="center">
-<a href="https://api.github.com/repos/py-contributors/AlgorithmsAndDataStructure/contributors"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
-</p>
+
